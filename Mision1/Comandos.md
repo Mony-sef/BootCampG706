@@ -34,3 +34,6 @@ matplotlib - graficos `pip install matplotlib`
 `<hr>` para agregar una línea horizontal
 
 <p> Esta etiqueta es tipo párrafo 📋<p>
+<
+Con las teclas Control y Espacio nos muestra opciones al escribir un commit
+<br> es un salto de línea
